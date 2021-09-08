@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/2021-quarterly-accessibility/static/js/main.6f031b9c.chunk.js",
+    "main.js.map": "/2021-quarterly-accessibility/static/js/main.6f031b9c.chunk.js.map",
+    "runtime-main.js": "/2021-quarterly-accessibility/static/js/runtime-main.1c170c86.js",
+    "runtime-main.js.map": "/2021-quarterly-accessibility/static/js/runtime-main.1c170c86.js.map",
+    "static/js/2.7cba16c7.chunk.js": "/2021-quarterly-accessibility/static/js/2.7cba16c7.chunk.js",
+    "static/js/2.7cba16c7.chunk.js.map": "/2021-quarterly-accessibility/static/js/2.7cba16c7.chunk.js.map",
+    "index.html": "/2021-quarterly-accessibility/index.html",
+    "static/js/2.7cba16c7.chunk.js.LICENSE.txt": "/2021-quarterly-accessibility/static/js/2.7cba16c7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1c170c86.js",
+    "static/js/2.7cba16c7.chunk.js",
+    "static/js/main.6f031b9c.chunk.js"
+  ]
+}
